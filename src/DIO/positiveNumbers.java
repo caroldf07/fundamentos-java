@@ -40,5 +40,10 @@ public class positiveNumbers {
             }
         }
         System.out.println(positive+" valores positivos");
+
+        while (int ii = 0; ii < 2) {
+            ii++;
+            System.out.println("ii = " + ii);
+        }
     }
 }
